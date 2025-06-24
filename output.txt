@@ -1,0 +1,17 @@
+Tabla de Posiciones:
+Equipo           Puntos GF GC
+Barcelona        4      5  1
+Emelec           3      1  4
+LDU Quito        1      1  2
+
+Goleadores del Torneo:
+Jugador         Equipo          Goles
+jaime           Barcelona       1
+jaime           Barcelona       1
+jaime           Barcelona       1
+jaime           Barcelona       1
+ferda           Emelec          1
+jaiaj           LDU Quito       1
+k               Barcelona       1
+
+🏅 MVP del Torneo: jaime (Barcelona) con 1 goles.
